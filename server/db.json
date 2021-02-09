@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "firstName": "MWasee",
+      "lastName": "Sarwar",
+      "email": "waseesarwar187@gmail.com",
+      "profession": "JS developer",
+      "selectedValue": "personal",
+      "id": 1
+    },
+    {
+      "firstName": "Fairooz",
+      "lastName": "Sarwar",
+      "email": "abc@gmail.com",
+      "profession": "Architect",
+      "selectedValue": "professional",
+      "id": 4
+    },
+    {
+      "firstName": "R.A.",
+      "lastName": "Inteser",
+      "email": "abc@gmail.com",
+      "profession": "Doctor",
+      "selectedValue": "personal",
+      "id": 5
+    },
+    {
+      "firstName": "Sabbir",
+      "lastName": "Rahman",
+      "email": "abc@gmail.com",
+      "profession": "Reactjs developer",
+      "selectedValue": "professional",
+      "id": 6
+    }
+  ]
+}
